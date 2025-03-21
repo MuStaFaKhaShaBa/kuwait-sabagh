@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -27,6 +28,35 @@
       <image:loc>https://kuwait-sabagh.com/img/poster-kw-3.png</image:loc>
       <image:caption>تركيب ورق الجدران بأحدث التصاميم العصرية والمودرن.</image:caption>
       <image:title>تركيب ورق جدران في الكويت - أحدث التصاميم العصرية</image:title>
+    </image:image>
+  </url>
+
+  <!-- Jahra Dyer Page -->
+  <url>
+    <loc>https://kuwait-sabagh.com/jahra-dyer.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+
+    <!-- Image 1: Jahra Painting Services -->
+    <image:image>
+      <image:loc>https://kuwait-sabagh.com/img/poster-jahra-1.png</image:loc>
+      <image:caption>نقدم أفضل خدمات الصباغة في الجهراء، بما في ذلك الدهانات الداخلية والخارجية بجودة عالية.</image:caption>
+      <image:title>أفضل صباغ في الجهراء - خدمات دهان وديكور احترافية</image:title>
+    </image:image>
+
+    <!-- Image 2: Jahra Interior & Exterior Painting -->
+    <image:image>
+      <image:loc>https://kuwait-sabagh.com/img/poster-jahra-2.png</image:loc>
+      <image:caption>دهانات داخلية وخارجية في الجهراء باستخدام أفضل المواد والتقنيات الحديثة.</image:caption>
+      <image:title>خدمات الدهانات الداخلية والخارجية في الجهراء</image:title>
+    </image:image>
+
+    <!-- Image 3: Jahra Wallpaper Installation -->
+    <image:image>
+      <image:loc>https://kuwait-sabagh.com/img/poster-jahra-3.png</image:loc>
+      <image:caption>تركيب ورق الجدران في الجهراء بأحدث التصاميم العصرية والمودرن.</image:caption>
+      <image:title>تركيب ورق جدران في الجهراء - أحدث التصاميم العصرية</image:title>
     </image:image>
   </url>
 </urlset>
