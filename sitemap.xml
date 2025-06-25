@@ -31,4 +31,26 @@
     </image:image>
   </url>
 
+    <url>
+    <loc>https://kuwait-sabagh.com/best.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    </url>
+    
+
+    <url>
+    <loc>https://kuwait-sabagh.com/jahra.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    </url>
+
+    <url>
+    <loc>https://kuwait-sabagh.com/ahmadi.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    </url>
+
 </urlset>
