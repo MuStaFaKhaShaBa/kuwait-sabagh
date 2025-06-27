@@ -52,5 +52,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     </url>
+  
+    <url>
+    <loc>https://kuwait-sabagh.com/صباغ.html</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    </url>
 
 </urlset>
