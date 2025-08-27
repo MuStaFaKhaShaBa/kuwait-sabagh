@@ -59,5 +59,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     </url>
+  
+    <url>
+    <loc>https://kuwait-sabagh.com/صباغ-جيبس-بورد.html</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    </url>
+  
+    <url>
+    <loc>https://kuwait-sabagh.com/صباغ-حولي.html</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    </url>
 
 </urlset>
